@@ -1,0 +1,10 @@
+[
+  {
+    "description":"MongoDB configuration",
+    "name":"mongodb",
+    "provider":"org.jnosql.diana.mongodb.document.MongoDBDocumentConfiguration",
+    "settings":{
+      "jakarta.nosql.host":"localhost"
+    }
+  }
+]
