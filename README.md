@@ -1,7 +1,7 @@
-# Heroes Services
-A JAX-RS with Couchbase demo
+# Cars Services
+A JAX-RS with MongoDB pagination demo
 
-A JAX-RS sample using [Tomee](http://tomee.apache.org/) implementation.
+A JAX-RS sample using [Payara Micro](https://www.payara.fish/software/payara-server/payara-micro/) implementation.
 
 To run:
 
